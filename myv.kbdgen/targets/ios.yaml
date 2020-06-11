@@ -3,4 +3,4 @@ provisioningProfileId: Test
 packageId: no.uit.giella.keyboards.myv
 bundleName: Erzya Mordvin Keyboards
 version: 1.0.0
-build: '1'
+build: 1
