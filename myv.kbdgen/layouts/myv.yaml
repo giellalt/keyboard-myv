@@ -3,7 +3,10 @@ displayNames:
   en: Erzya
   ru: Эрзянский язык
   fi: Ersä
-  sv: Ersjanska
+  sv: erzja
+  nb: erzja
+  nn: erzja
+  'no': erzja
 
 modes:
   android:
