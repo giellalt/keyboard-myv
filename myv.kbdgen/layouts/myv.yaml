@@ -231,12 +231,10 @@ space:
     cmd+alt: '\u{A0}'
 
 targets:
-  ios:
-    legacyName: myv_keyboards
+#   ios:
 #    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-myv?channel=nightly&platform=mobile
 #    spellerPath: myv.bhfst
-  android:
-    legacyName: myv_keyboards
+#   android:
 #    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-myv?channel=nightly&platform=mobile
 #    spellerPath: myv.bhfst
   win:
