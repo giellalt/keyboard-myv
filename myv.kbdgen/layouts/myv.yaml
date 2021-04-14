@@ -234,12 +234,12 @@ space:
     cmd+alt: '\u{A0}'
 
 targets:
-#   ios:
-#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-myv?channel=nightly&platform=mobile
-#    spellerPath: myv.bhfst
-#   android:
-#    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-myv?channel=nightly&platform=mobile
-#    spellerPath: myv.bhfst
+  ios:
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-myv?channel=nightly&platform=mobile
+    spellerPath: myv.bhfst
+  android:
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-myv?channel=nightly&platform=mobile
+    spellerPath: myv.bhfst
   win:
     locale: myv-Cyrl
     id: myvwi
