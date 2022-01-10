@@ -1,11 +1,11 @@
 # Documentation for the Erzya keyboards
 
 
-## Layouts
+# Layouts
 
 -   [Layout overview](layout.html)
 
-## Installer packages
+# Installer packages
 
 Installers can be downloaded as follows:
 

@@ -8,10 +8,10 @@
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
 
-## Эрзя (macOS)
+# Эрзя (macOS)
 
   
 
-## Эрзя (Windows)
+# Эрзя (Windows)
 
   
