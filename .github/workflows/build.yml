@@ -2,7 +2,7 @@ name: "CI+CD"
 on:
   push:
     paths: 
-       - ‘myv.kbdgen/**’
+      - ‘myv.kbdgen/**’
   repository_dispatch:
 
 jobs:
