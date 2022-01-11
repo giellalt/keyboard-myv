@@ -1,8 +1,8 @@
 name: Build Docs
 on:
   push:
-    paths:
-      - ‘docs/**’
+    paths-ignore:
+      - ‘*.kbdgen/**’
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
