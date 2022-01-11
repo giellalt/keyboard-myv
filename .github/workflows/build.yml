@@ -1,9 +1,9 @@
 name: "CI+CD"
 on:
-  - push:
+  push:
     paths: 
        - ‘*.kbdgen/**’
-  - repository_dispatch
+  repository_dispatch:
 
 jobs:
   build:
