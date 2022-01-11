@@ -3,8 +3,10 @@
 
 # Layouts
 
--   [Layout overview](layout.html)
+-   [Layout overview](layout.md)
 
-# Installer packages
+# Installation
 
-The keyboards should be installed using the Divvun Manager, available for download at [divvun.org](https://divvun.org).
+The keyboard should be installed using the Divvun Manager, available for download at [divvun.org](https://divvun.org).
+
+The mobile phone keyboards are available in the keyboard apps.
