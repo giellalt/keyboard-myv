@@ -3,7 +3,7 @@
 
 # Layouts
 
--   [Layout overview](layout.html)
+-   [Layout overview](layout.md)
 
 # Installer packages
 
