@@ -9,7 +9,6 @@ in the AUTHORS file are available to grant other licencing choices.
 Installation and compilation, and a short note on usage, is documented
 in the file INSTALL.
 
-
 Documentation is scattered around on the Giellatekno and Divvun pages,
 e.g.:
 
