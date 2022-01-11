@@ -10,8 +10,8 @@
 
 # Эрзя (macOS)
 
-  
+![myv-mac.svg](myv-mac.svg)
 
 # Эрзя (Windows)
 
-  
+![myv-win.svg](myv-win.svg)
