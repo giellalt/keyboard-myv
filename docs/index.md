@@ -1,9 +1,10 @@
 # Documentation for the Erzya keyboards
 
+## Layouts
 
-# Layouts
+- [Layout overview](layout.md)
 
--   [Layout overview](layout.md)
+## Other information
 
 # Installation
 
